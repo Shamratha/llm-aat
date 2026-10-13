@@ -1,9 +1,9 @@
 # Privacy-Preserving Named Entity Recognition for Automated PCI/PII Detection in Financial Text
 
-**Course activity:** Topic Exploration, Implementation, Validation and Presentation  
-**NLP topic:** Named Entity Recognition (NER)  
-**Team:** To be completed by the two student members  
-**Application domain:** Financial services, privacy operations and payment security  
+**Course activity:** Topic Exploration, Implementation, Validation and Presentation
+**NLP topic:** Named Entity Recognition (NER)
+**Team:** To be completed by the two student members
+**Application domain:** Financial services, privacy operations and payment security
 **Repository:** https://github.com/Shamratha/llm-aat
 
 ## Abstract
