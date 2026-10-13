@@ -68,4 +68,4 @@ All examples are synthetic. The repository must not be connected to real cardhol
 - `reports/Privacy_Preserving_Financial_NER_Presentation.pptx`
 - `reports/technical_report.md`
 
-The report includes the conceptual review, architecture, preprocessing, training workflow, evaluation methodology, results, limitations and conclusion. The presentation is organized for an oral explanation of the same work.
+The report and presentation are aligned with the supplied B.M.S. College of Engineering AAT templates: course heading, topic, submitted-by placeholders, Semester & Section 7C, faculty-in-charge, agenda, the ten report sections, results, discussion, references and thank-you slide. The report includes the conceptual review, architecture, preprocessing, training workflow, evaluation methodology, results, limitations and conclusion. The presentation is organized for an oral explanation of the same work.
