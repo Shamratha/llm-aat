@@ -1,0 +1,8 @@
+[project]
+name = "privacy-preserving-financial-ner"
+version = "1.0.0"
+description = "A dependency-free hybrid NER system for synthetic PCI/PII detection in financial text."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
